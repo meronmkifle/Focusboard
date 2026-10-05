@@ -1,10 +1,10 @@
-# Focusonboard
+# Focusboard
 
-A small desk for the working day. Focusonboard has a whiteboard for sketching ideas, a sticky note board for keeping track of what needs doing, and a Pomodoro timer that floats on top of both.
+A small desk for the working day. Focusboard has a whiteboard for sketching ideas, a sticky note board for keeping track of what needs doing, and a Pomodoro timer that floats on top of both.
 
-![Stickies board in Focusonboard](./Stickies.png)
+![Stickies board in Focusboard](./Stickies.png)
 
-![Whiteboard in Focusonboard](./Whiteboard.png)
+![Whiteboard in Focusboard](./Whiteboard.png)
 
 ## What it does
 
@@ -59,7 +59,7 @@ Use the Board menu to copy a backup and keep it somewhere safe. You can restore 
 
 ## ☕ Support
 
-If you find Focusonboard helpful, consider buying me a coffee!
+If you find Focusboard helpful, consider buying me a coffee!
 
 <a href="https://buymeacoffee.com/qhl34mcne4">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="60" width="217">
